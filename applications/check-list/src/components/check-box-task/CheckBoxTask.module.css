@@ -1,0 +1,20 @@
+.root {
+  box-sizing: border-box;
+  padding: 12px 24px 12px 12px;
+  width: 100%;
+  
+  text-align: left;
+  
+  border: 1px solid white;
+  border-radius: 8px;
+}
+
+.header {
+  display: flex;
+  gap: 12px;
+}
+
+.description {
+  margin-left: 24px;
+}
+

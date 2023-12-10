@@ -1,0 +1,11 @@
+.root {
+  display: grid;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.list {
+  display: grid;
+  gap: 12px;
+  width: 400px;
+}

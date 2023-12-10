@@ -1,0 +1,26 @@
+.root {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 100%;
+  width: 100%;
+
+  background: #0008;
+}
+
+.form {
+  position: absolute;
+  display: grid;
+  gap: 12px;
+
+  padding: 24px 16px;
+  
+  height: 300px;
+  width: 400px;
+  
+  background: black;
+  border-radius: 8px;
+}
+
